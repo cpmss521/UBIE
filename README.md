@@ -13,6 +13,6 @@ Universal biomedical information extraction
 
   
   ## 1. UBIE
-  UBIE provides a unified framework for biomedical information extraction, including but not limited to biomedical named entity identification (such as diseases, chemicals, etc.), biomedical relationship extraction (such as drug interaction, etc.), biomedical event extraction, biomedical question and answer and biomedical text classification.
+  UBIE provides a unified framework for biomedical information extraction, including but not limited to biomedical named entity recognition (such as diseases, chemicals, etc.), biomedical relationship extraction (such as drug interaction, etc.), biomedical event extraction, biomedical question and answer and biomedical text classification.
   Decent results can still be achieved only with a few labeled samples (i.e. few-shot scenarios).
   <a name="biomedical entity recognition"></a>
